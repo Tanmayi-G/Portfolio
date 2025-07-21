@@ -31,7 +31,7 @@ const Experience = () => {
                   key={index}
                   onClick={() => setActiveIndex(index)}
                   className={`px-6 py-3 text-sm font-mono text-left whitespace-nowrap lg:whitespace-normal border-b-2 lg:border-b-0 lg:border-l-2 transition-all duration-200 hover:bg-[#112240] ${
-                    activeIndex === index ? "text-[#64ffda] border-[#64ffda]" : "text-[#8892b0] border-[#233554] hover:text-[#64ffda]"
+                    activeIndex === index ? "text-[#64ffda] border-[#64ffda] bg-[#182e54] hover:bg-[#182e54]" : "text-[#8892b0] border-[#233554] hover:text-[#64ffda]"
                   }`}
                 >
                   {exp.company}
