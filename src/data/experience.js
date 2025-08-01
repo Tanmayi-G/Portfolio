@@ -1,18 +1,5 @@
 export const experiences = [
   {
-    company: "Auralis AI",
-    role: "Software Developer Intern",
-    duration: "Jul 2025 – Present",
-    link: "https://auralis.ai/",
-    logo: "/auralis.png",
-    technologies: ["ReactJS", "NodeJS", "Express"],
-    points: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vehicula, nibh vitae commodo sagittis, nisi urna tincidunt lacus, non hendrerit velit leo et urna.",
-      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Curabitur elementum, sapien sed blandit suscipit, magna lacus scelerisque sem, ut porttitor ex nisl a velit.",
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
-    ],
-  },
-  {
     company: "Pluralsight",
     role: "Full Stack Intern",
     duration: "Jan 2025 – Jun 2025",
